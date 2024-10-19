@@ -13,8 +13,6 @@ This repository contains a **Sentiment Analysis** web application where users ca
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
@@ -101,10 +99,3 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
     ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Special thanks to the developers of Flask and the creators of the sentiment analysis libraries used in this project.
